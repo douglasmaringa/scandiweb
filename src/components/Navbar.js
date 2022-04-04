@@ -16,8 +16,8 @@ import "./navbar.css"
                         <li><Link to="/cart">Clothes</Link></li>
                       
                         <li  className="navbar-center"><Link to="/cartscreen"><img src="/log.png" alt="" /></Link></li>
-                        <li className="navbar-right"><Link to="/cart">$ &or;</Link></li>
-                        <li className="navbar-right"><Link to="/cart"><img src="/cart.png" alt="" /></Link></li>
+                        <li className="navbar-right"><Link to="/cartscreen">$ &or;</Link></li>
+                        <li className="navbar-right"><Link to="/cartscreen"><img src="/cart.png" alt="" /></Link></li>
                     </ul>
                 </div>
             </div>
